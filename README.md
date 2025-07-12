@@ -37,7 +37,7 @@ An intelligent ticket classification system that automatically categorizes IT su
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ticket-classification-system.git
+git clone https://github.com/vraja05/ticket-classification-system.git
 cd ticket-classification-system
 ```
 
@@ -143,9 +143,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Vinay Raja**  
 ML Engineer  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/vinay-raja-5aaa0b24b/) | [GitHub](https://github.com/vraja05)
 
 ---
 
