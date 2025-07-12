@@ -7,7 +7,7 @@
 
 An intelligent ticket classification system that automatically categorizes IT support tickets into appropriate teams, reducing manual routing time by 40% and improving resolution speed.
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](images/dash_shot.png)
 
 ## 🚀 Features
 
