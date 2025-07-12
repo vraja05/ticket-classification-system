@@ -9,8 +9,8 @@ env/
 ENV/
 
 # Model files
-models/*.pkl
-models/*.joblib
+#models/*.pkl
+#models/*.joblib
 
 # Data files
 data/*.csv
