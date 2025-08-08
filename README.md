@@ -149,6 +149,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ML Engineer  
 [LinkedIn](https://www.linkedin.com/in/vinay-raja-5aaa0b24b/) | [GitHub](https://github.com/vraja05)
 
----
 
-*Built with ❤️ for efficient IT support management*
